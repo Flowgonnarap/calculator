@@ -1,8 +1,3 @@
-# Made By Flow#0002
-
-
-
-
 Avogadronumber = 6.02 * 10 ** 23
 print("Do you want to multiply, divde, add, or subtract numbers?")
 print("1 = add, 2 = multiply, 3 = Subtract, 4 = divide,5 = add + Avogadro's number, 6 = multiply * Avogadro's number, 7 = Subtract - Avogadro's number, 8 = divide /  Avogadro's number . ")
