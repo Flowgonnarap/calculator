@@ -1,4 +1,3 @@
-from calculator2 import Status_of_calculator
 import os
 import time
 os.system("title Flow's calculator!")
