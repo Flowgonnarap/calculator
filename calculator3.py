@@ -4,7 +4,7 @@
 1- Changed the colors, and added more colors. (Please don't kill me if it's too rainbow)
 2- Changed the variables names, and thus looks more friendlier.
 3- Added big ASCII texts that should make it look good :)
-4- You can declare the variable {Status_of_calculator} off and on, like a power switch. (Line 19)
+4- You can declare the variable {Status_of_calculator} off and on, like a power switch. (Line 18)
 5- Other minor changes.
 """
 def main():
