@@ -7,8 +7,6 @@
 4- You can declare the variable {Status_of_calculator} off and on, like a power switch. (Line 19)
 5- Other minor changes.
 """
-def floatToString(main):
-    return ('%.15f' % main).rstrip('0').rstrip('.')   
 def main():
     import os
     import time
