@@ -10,24 +10,24 @@ This calculator currently has 7 options to choose from and has colors.
 
 # Installion
 
-1-Install colorama through `pip install colorama`__
-2-Enjoy it!
 
 <ul>
-<li>Line 1</li>
-<li>Line 2</li>
+<li>Install colorama through `pip install colorama`</li>
+<li>Enjoy it!</li>
 </ul>
 
 
 # Features
-1-Addition__
-2-Subtraction__
-3-Multiplication__
-4-Division__
-5-Square Root__
-6-Power__
-7-Avogadro's selection (normal calculations + avogadro's number integrated)__
 
+<ul>
+<li>Addition</li>
+<li>Subtraction</li> 
+<li>Multiplication</li> 
+<li>Division</li> 
+<li>Square root</li> 
+<li>Power</li> 
+<li>Avogadro's selection (normal calculations + avogadro's number integrated)</li>
+</ul>
 # Version
 The current version is `6.0`.
 ## More coming in the future, stay on tune!
