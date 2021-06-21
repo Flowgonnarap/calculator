@@ -12,8 +12,7 @@ This calculator currently has 7 options to choose from and has colors.
 
 
 <ul>
-
-<li>Install colorama through `pip install colorama` in command prompt. </li>
+<li>Install colorama through "pip install colorama" in command prompt. </li>
 <li>Enjoy it!</li>
 </ul>
 
