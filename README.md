@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 Hi, this is a calculator made only as a fun project.
 This calculator currently has 7 options to choose from and has colors.
 
@@ -10,20 +10,20 @@ This calculator currently has 7 options to choose from and has colors.
 
 # Installion
 
-1-Install colorama through `pip install colorama`
-2-Install and run!
+1-Install colorama through `pip install colorama`__
+2-Enjoy it!
 
 
 
 
 # Features
-1-Addition
-2-Subtraction
-3-Multiplication
-4-Division
-5-Square Root
-6-Power
-7-Avogadro's selection (normal calculations + avogadro's number integrated)
+1-Addition__
+2-Subtraction__
+3-Multiplication__
+4-Division__
+5-Square Root__
+6-Power__
+7-Avogadro's selection (normal calculations + avogadro's number integrated)__
 
 # Version
 The current version is `6.0`.
