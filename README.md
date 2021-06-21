@@ -28,6 +28,8 @@ This calculator currently has 7 options to choose from and has colors.
 <li>Power</li> 
 <li>Avogadro's selection (normal calculations + avogadro's number integrated)</li>
 </ul>
+
+
 # Version
 The current version is `6.0`.
 ## More coming in the future, stay on tune!
