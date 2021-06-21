@@ -2,10 +2,19 @@
 Hi, this is a calculator made only as a fun project.
 This calculator currently has 7 options to choose from and has colors.
 
-#Installion
+
+
+
+
+
+
+# Installion
 
 1-Install colorama through `pip install colorama`
 2-Install and run!
+
+
+
 
 # Features
 1-Addition
@@ -16,6 +25,6 @@ This calculator currently has 7 options to choose from and has colors.
 6-Power
 7-Avogadro's selection (normal calculations + avogadro's number integrated)
 
-#Version
+# Version
 The current version is `6.0`.
 ## More coming in the future, stay on tune!
