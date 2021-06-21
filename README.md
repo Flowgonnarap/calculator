@@ -13,7 +13,10 @@ This calculator currently has 7 options to choose from and has colors.
 1-Install colorama through `pip install colorama`__
 2-Enjoy it!
 
-
+<ul>
+<li>Line 1</li>
+<li>Line 2</li>
+</ul>
 
 
 # Features
